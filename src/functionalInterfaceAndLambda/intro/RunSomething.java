@@ -1,4 +1,4 @@
-package FunctionalInterfaceAndLambda;
+package functionalInterfaceAndLambda.intro;
 
 //if an interface has only one abstract method, it is FP.
 //it doesn't matter if it has another types of methods.
