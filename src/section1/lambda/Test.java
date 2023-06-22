@@ -1,6 +1,5 @@
-package lambda;
+package section1.lambda;
 
-import java.net.Inet4Address;
 import java.util.function.Consumer;
 import java.util.function.IntConsumer;
 

@@ -1,4 +1,4 @@
-package FpProviededByJava;
+package section1.FpProviededByJava;
 
 import java.util.function.*;
 

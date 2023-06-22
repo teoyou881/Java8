@@ -1,4 +1,4 @@
-package functionalInterfaceAndLambda.intro;
+package section1.intro;
 
 public class Foo {
     public static void main(String[] args) {
