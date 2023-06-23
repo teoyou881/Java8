@@ -1,4 +1,4 @@
-package sectkn2.providedJava;
+package section2.providedJava;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package sectkn2.interfaceDefaultAndStaticMethod;
+package section2.interfaceDefaultAndStaticMethod;
 
 public class App {
     public static void main(String[] args) {
